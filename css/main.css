@@ -17,3 +17,8 @@ p {
 	font: bold 3em "Times New Roman", Times, serif;
 	color: #2e2e2e;
 }
+.line-of-images {
+float: left;
+margin: 10px;
+display: inline-block;
+}
