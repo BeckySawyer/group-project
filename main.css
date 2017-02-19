@@ -1,0 +1,19 @@
+body {
+	background-color: #a4ddd6;
+	margin: 0 auto;
+}
+
+h1 {
+	font: bold 30em "Times New Roman", Times, serif;
+	color: #5e5e5e;
+}
+
+h2 {
+	font: bold 20em "Times New Roman", Times, serif;
+	color: #5e5e5e;
+}
+
+p {
+	font: bold 10em "Times New Roman", Times, serif;
+	color: #2e2e2e;
+}
