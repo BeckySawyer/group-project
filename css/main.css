@@ -1,4 +1,4 @@
-.main-title {
+.small {
 	font-family: verdana, sans-serif;
 	font-size: 30px;
 }
@@ -8,4 +8,9 @@
 	font-family: verdana, sans-serif;
 	color: #222;
 	line-height: 100%;
+}
+h1 {
+	font-size: 30px;
+	line-height: 100%;
+	font-family: verdana, sans-serif;
 }
