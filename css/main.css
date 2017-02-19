@@ -1,19 +1,11 @@
-body {
-	background-color: #a4ddd6;
-	margin: 0 auto;
+.main-title {
+	font-family: verdana, sans-serif;
+	font-size: 30px;
 }
-
-h1 {
-	font: bold 12em "Times New Roman", Times, serif;
-	color: #5e5e5e;
-}
-
-h2 {
-	font: bold 8em "Times New Roman", Times, serif;
-	color: #5e5e5e;
-}
-
-p {
-	font: bold 3em "Times New Roman", Times, serif;
-	color: #2e2e2e;
+.para {
+	font-size: 10px;
+	text-align: justify;
+	font-family: verdana, sans-serif;
+	color: #222;
+	line-height: 100%;
 }
