@@ -25,4 +25,20 @@ float: left;
 margin: 10px;
 display: inline-block;
 }
-
+.footer-background {
+  background-color: #5e5e5e;
+  font: bold 20em "Times New Roman", Times, serif;
+  color: white;
+  font-size: 1.5em;
+padding: 0 20px 20px 20px;
+margin-top: 50px;
+line-height: 3em;
+}
+.footer-heading {
+  font-size: 2em;
+  padding: 20px 20px 20px 0;
+}
+article {
+  display: inline-block;
+padding-right: 40px;
+}
