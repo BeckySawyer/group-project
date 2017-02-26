@@ -27,6 +27,7 @@
 <img src="img/sunny-waves.jpg">
 <img src="img/sunset-waves.jpg">
 <img src="img/surf-waves.jpg">
+</div>
 
 <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi corrupti, adipisci dolor? Dolorem accusantium a, dignissimos optio, soluta distinctio minus eligendi inventore quaerat cumque sapiente architecto illo quod placeat. Voluptatibus? </p>
 
