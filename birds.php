@@ -1,7 +1,7 @@
 <?php
-    include 'header.php';
+    include 'includes/header.php';
     $currentPage = 'birds'; // current page is about, do the same for other page
-    include 'navigation.php';
+    include 'includes/navigation.php';
 ?>
 
 <div class="container">
@@ -23,5 +23,5 @@
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </div>
 <?php
-    include 'footer.php';
+    include 'includes/footer.php';
 ?>

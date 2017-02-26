@@ -1,7 +1,7 @@
 <?php
-    include 'header.php';
+    include 'includes/header.php';
      $currentPage = 'sand'; // current page is about, do the same for other page
-    include 'navigation.php';
+    include 'includes/navigation.php';
 ?>
 
 <div class="container">
@@ -18,5 +18,5 @@
 </div>
 
 <?php
-    include 'footer.php';
+    include 'includes/footer.php';
 ?>
