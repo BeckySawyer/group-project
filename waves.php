@@ -6,7 +6,7 @@
   <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
-<?php 
+<?php
        $currentPage = 'waves'; // current page is about, do the same for other page
     include 'navigation.php';
 ?>
@@ -30,21 +30,9 @@
 
 <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi corrupti, adipisci dolor? Dolorem accusantium a, dignissimos optio, soluta distinctio minus eligendi inventore quaerat cumque sapiente architecto illo quod placeat. Voluptatibus? </p>
 
+<?php
+    include 'footer.php';
+?>
 
-  <footer>
-<div class="footer-background">
-
-  <div class="footer-heading">The Beach
-  </div>
-    <section>Travel the beach wherever you go - online or outside!
-    </section>
-
-  <article>© Copyright 2017
-  </article>
-  <article> Website design by Cocktails and Margaritas
-  </article>
-
-</div>
-  </footer>
 </body>
 </html>

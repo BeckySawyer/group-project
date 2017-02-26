@@ -8,28 +8,16 @@
 <body>
 
 <body>
-<?php 
+<?php
     $currentPage = 'index'; // current page is about, do the same for other page
     include 'navigation.php';
 ?>
 
 	<img src="img/flamingo.jpg">
 
-  <footer>
-<div class="footer-background">
-
-  <div class="footer-heading">The Beach
-  </div>
-    <section>Travel the beach wherever you go - online or outside!
-    </section>
-
-  <article>© Copyright 2017
-  </article>
-  <article> Website design by Cocktails and Margaritas
-  </article>
-
-</div>
-  </footer>
+  <?php
+      include 'footer.php';
+  ?>
 
 </body>
 </html>

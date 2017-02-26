@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
-<?php 
+<?php
        $currentPage = 'birds'; // current page is about, do the same for other page
     include 'navigation.php';
 ?>
@@ -28,20 +28,9 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-  <footer>
-<div class="footer-background">
+<?php
+    include 'footer.php';
+?>
 
-  <div class="footer-heading">The Beach
-  </div>
-    <section>Travel the beach wherever you go - online or outside!
-    </section>
-
-  <article>© Copyright 2017
-  </article>
-  <article> Website design by Cocktails and Margaritas
-  </article>
-
-</div>
-  </footer>
 </body>
 </html>
