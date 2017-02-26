@@ -21,11 +21,14 @@ p {
 .main {
   font-size: 1.5em;
 }
+.line-of-images img {
+    height: 100px;
+}
 .line-of-images {
 float: left;
 margin: 10px;
 display: inline-block;
-margin-bottom: 500px;
+margin-bottom: 100px;
 }
 .footer-background {
   background-color: #5e5e5e;
