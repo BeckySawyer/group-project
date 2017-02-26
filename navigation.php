@@ -11,10 +11,10 @@
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
-						<li class="active"><a href="/group-project"> Home</a></li>
-						<li><a href="/group-project/sand.php"> Sand</a></li>
-						<li><a href="/group-project/waves.php"> Waves</a></li>
-						<li><a href="/group-project/birds.php"> Birds</a></li>
+						<li class="<?php if($currentPage =='index'){echo 'active';}?>"><a href="/group-project"> Home</a></li>
+						<li class="<?php if($currentPage =='sand'){echo 'active';}?>"><a href="/group-project/sand.php"> Sand</a></li>
+						<li class="<?php if($currentPage =='waves'){echo 'active';}?>"><a href="/group-project/waves.php"> Waves</a></li>
+						<li class="<?php if($currentPage =='birds'){echo 'active';}?>"><a href="/group-project/birds.php"> Birds</a></li>
                         
                     </ul>
                 </div>

@@ -9,6 +9,7 @@
 
 <body>
 <?php 
+    $currentPage = 'index'; // current page is about, do the same for other page
     include 'navigation.php';
 ?>
 
