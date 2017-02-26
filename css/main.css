@@ -3,6 +3,11 @@ body {
 	margin: 0 auto;
 }
 
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
 h1 {
 	font: bold 5em "Arial", sans-serif;
 	color: white;
