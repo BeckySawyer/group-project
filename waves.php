@@ -23,12 +23,14 @@
 
   <img src="img/blue-waves.jpg">
 
+
   <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab iste veritatis, aspernatur ullam modi molestiae, laboriosam illo? Accusamus id ab labore dolorem, in voluptatem. Illo magni fuga, officiis eos cumque. </p>
 
-  <div class="line-of-images">
-  <img src="img/sunny-waves.jpg">
-  <img src="img/sunset-waves.jpg">
-  <img src="img/surf-waves.jpg">
+<div class="line-of-images">
+<img src="img/sunny-waves.jpg">
+<img src="img/sunset-waves.jpg">
+<img src="img/surf-waves.jpg">
+</div>
 
   <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi corrupti, adipisci dolor? Dolorem accusantium a, dignissimos optio, soluta distinctio minus eligendi inventore quaerat cumque sapiente architecto illo quod placeat. Voluptatibus? </p>
 
