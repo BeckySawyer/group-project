@@ -9,13 +9,14 @@ h1 {
 }
 
 h2 {
-	font: bold 5em "Arial", sans-serif;
+	font: bold 3em "Arial", sans-serif;
 	color: white;
 }
 
 p {
-	font: bold 5em "Arial", sans-serif;
+	font: bold 1em "Arial", sans-serif;
 	color: #2e2e2e;
+    line-height: 1.5em;
 }
 .main {
   font-size: 1.5em;
